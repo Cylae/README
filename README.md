@@ -25,6 +25,8 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,mongodb,postgresql,python,docker,git,github" alt="skills" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Netdata-00AB44?style=for-the-badge&logo=netdata&logoColor=white" alt="Netdata" />
 </div>
 
 ---
