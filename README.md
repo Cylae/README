@@ -36,7 +36,7 @@
 <div align="center">
 
 [![Cylae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cylae&show_icons=true&theme=radical)](https://github.com/Cylae)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cylae&layout=compact&theme=radical)](https://github.com/Cylae)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cylae&layout=donut&theme=radical)](https://github.com/Cylae)
 
 <br>
 
@@ -51,6 +51,10 @@
 <br>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cylae&theme=react-dark)](https://github.com/Cylae)
+
+<br>
+
+[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cylae&theme=radical&utcOffset=8)](https://github.com/Cylae)
 
 </div>
 
