@@ -43,6 +43,15 @@
 [![Cylae's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Cylae&theme=radical)](https://github.com/Cylae)
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Cylae&theme=radical&margin-w=15&column=4)](https://github.com/Cylae)
 
+<br>
+
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cylae&theme=radical)](https://github.com/Cylae)
+[![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=Cylae&repo=Cylae&theme=radical)](https://github.com/Cylae/Cylae)
+
+<br>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cylae&theme=react-dark)](https://github.com/Cylae)
+
 </div>
 
 <!--
