@@ -1,4 +1,15 @@
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cylae&hide=html&layout=compact)
+### Hi there 👋, I'm Cylae!
+
+I am a passionate developer eager to learn and build things!
+
+<div align="center">
+
+[![Cylae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cylae&show_icons=true&theme=radical)](https://github.com/Cylae)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cylae&layout=compact&theme=radical)](https://github.com/Cylae)
+[![Cylae's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Cylae&theme=radical)](https://github.com/Cylae)
+
+</div>
+
 <!--
 **Cylae/Cylae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
